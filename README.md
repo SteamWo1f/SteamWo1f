@@ -1,6 +1,6 @@
 Ello I’m @SteamWo1f
 
-I’m working on auto post bots (on any platform) 
+I’m working on anything that comes across my mind 
 
 I’m currently learning python 
 
