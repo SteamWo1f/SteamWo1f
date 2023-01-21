@@ -10,13 +10,13 @@
 
 # Hello I'm SteamWolf
 
-- ♦ I’m currently working on Anything that catches my mind
+- **♦ I’m currently working on Anything that catches my mind**
 
-- ♦ I’m currently learning Python
+- **♦ I’m currently learning Python**
 
-- ♦ All of my info are available at [steamwolf.ml](steamwolf.ml)
+- **♦ All of my info are available at [steamwolf.ml](steamwolf.ml)**
 
-- ♦ You can reach me **steamwolf.121.business@gmail.com**
+- **♦ You can reach me **steamwolf.121.business@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steamwo1f&show_icons=true&title_color=ff9347&text_color=ff9347&bg_color=292829&locale=en" alt="steamwo1f" /></p>
 
