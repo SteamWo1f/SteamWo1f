@@ -10,7 +10,7 @@
 
 # Hello I'm SteamWolf
 
-- **♦ I’m currently working on Anything that catches my mind**
+- **♦ I’m currently working on anything that catches my mind**
 
 - **♦ I’m currently learning Python**
 
