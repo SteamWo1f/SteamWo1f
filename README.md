@@ -14,7 +14,7 @@
 
 - **♦ I’m currently learning Python**
 
-- **♦ All of my info are available at [steamwolf.ml](https://steamwolf.ml)
+- **♦ All of my info are available at [steamwolf.ml](https://steamwolf.ml)**
 
 - **♦ You can reach me steamwolf.121.business@gmail.com**
 
