@@ -12,7 +12,7 @@
 
 - **♦ I’m currently working on anything that catches my mind**
 
-- **♦ I’m currently learning Python**
+- **♦ I’m currently learning HTML & Python**
 
 - **♦ All of my info is available at [steamwolf.ml](https://steamwolf.ml)**
 
