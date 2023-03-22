@@ -10,28 +10,34 @@
 
 # Hello I'm SteamWolf
 
-- **♦ I’m currently working on anything that catches my mind**
+**♦ I’m currently working on anything that catches my mind**
 
-- **♦ I’m currently learning HTML & Python**
+**♦ I’m currently learning HTML & Python**
 
-- **♦ All of my info is available at [steamwolf.ml](https://steamwolf.ml)**
+**♦ All of my info is available at [steamwolf.ml](https://steamwolf.ml)**
 
-- **♦ You can reach me steamwolf.121.business@gmail.com**
+**♦ You can reach me steamwolf.121.business@gmail.com**
+
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steamwo1f&show_icons=true&title_color=ff9347&text_color=ff9347&bg_color=292829&locale=en" alt="steamwo1f" /></p>
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/steamwolf5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="steamwolf5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/steamwolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steamwolf" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/steamwo1f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="steamwo1f" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/XBz9hJAxzD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/XBz9hJAxzD" height="30" width="40" /></a>
-</p>
+
+[![portfolio](https://img.shields.io/badge/my_website-%23DD8142?style=for-the-badge&logoColor=white&logoColor=white)](https://steamwolf.ml/) [![portfolio](https://img.shields.io/badge/github-%23292829?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SteamWo1f) [![portfolio](https://img.shields.io/badge/Linkedin-%230077B7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steamwolf/) [![portfolio](https://img.shields.io/badge/reddit-%23FF4300?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SteamWo1f) [![portfolio](https://img.shields.io/badge/twitter-%23179CF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SteamWolf5) [![portfolio](https://img.shields.io/badge/youtube-%23FF0F00?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJqYptKIPNtsWRYWJZZH5Dg)
+  
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+---
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/steamwolf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="steamwolf" /></a></p><br><br>
+<p align="left">
 
+[![portfolio](https://img.shields.io/badge/paypal-%23233883?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/SteamWo1f) [![portfolio](https://img.shields.io/badge/Bitcoin-%23F79412?style=for-the-badge&logo=Bitcoin&logoColor=white)](https://github.com/SteamWo1f/SteamWo1f/blob/main/info.md) [![portfolio](https://img.shields.io/badge/ko--fi-%23FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/steamwolf)
 
+---
