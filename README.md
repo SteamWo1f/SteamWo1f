@@ -14,7 +14,7 @@
 
 **♦ I’m currently learning HTML & Python**
 
-**♦ All of my info is on my [website](https://website-steamwo1f.vercel.app)**
+**♦ All of my info is on my [website](https://steamwolf.vercel.app/)**
 
 **♦ You can reach me at steamwolf.121.business@gmail.com**
 
@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![portfolio](https://img.shields.io/badge/my_website-%23DD8142?style=for-the-badge&logoColor=white&logoColor=white)](https://steamwolf.ml/) [![portfolio](https://img.shields.io/badge/github-%23292829?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SteamWo1f) [![portfolio](https://img.shields.io/badge/Linkedin-%230077B7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steamwolf/) [![portfolio](https://img.shields.io/badge/reddit-%23FF4300?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SteamWo1f) [![portfolio](https://img.shields.io/badge/twitter-%23179CF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SteamWolf5) [![portfolio](https://img.shields.io/badge/youtube-%23FF0F00?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJqYptKIPNtsWRYWJZZH5Dg)
+[![portfolio](https://img.shields.io/badge/my_website-%23DD8142?style=for-the-badge&logoColor=white&logoColor=white)](https://steamwolf.vercel.app/) [![portfolio](https://img.shields.io/badge/github-%23292829?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SteamWo1f) [![portfolio](https://img.shields.io/badge/Linkedin-%230077B7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steamwolf/) [![portfolio](https://img.shields.io/badge/reddit-%23FF4300?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SteamWo1f) [![portfolio](https://img.shields.io/badge/twitter-%23179CF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SteamWolf5) [![portfolio](https://img.shields.io/badge/youtube-%23FF0F00?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJqYptKIPNtsWRYWJZZH5Dg)
   
 ---
 
