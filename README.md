@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/SteamWo1f/SteamWo1f/1820a39bed6d7984dcd05dc35ac649b04cebb2be/Images/Headers/header-white.svg)
+<img src="https://raw.githubusercontent.com/SteamWo1f/SteamWo1f/1820a39bed6d7984dcd05dc35ac649b04cebb2be/Images/Headers/header-white.svg" width="80%" height="auto">
 
 
 # Hello I'm SteamWolf
