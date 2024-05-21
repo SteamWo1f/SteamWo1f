@@ -6,7 +6,7 @@
 
 **♦ I’m currently working on anything that catches my mind**
 
-**♦ I’m currently learning HTML & Python**
+**♦ I’m currently learning HTML & CSS**
 
 **♦ All of my info is on my [website](https://steamwolf.vercel.app/)**
 
