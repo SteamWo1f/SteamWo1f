@@ -6,7 +6,7 @@
 
 **♦ I’m currently working on anything that catches my mind**
 
-**♦ All of my info is on my [website](https://steamwolf.vercel.app/)**
+**♦ All of my info is on my [website](https://steamwolf.cc)**
 
 **♦ You can reach me at steamwolf.121.business@gmail.com**
 
